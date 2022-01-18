@@ -1,0 +1,15 @@
+{
+    "name": "denis/sleep-relax-audio-site",
+    "autoload": {
+        "psr-4": {
+            "Denis\\SleepRelaxAudioSite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Denis Feliciano",
+            "email": "denisf.salles@gmail.com"
+        }
+    ],
+    "require": {}
+}
